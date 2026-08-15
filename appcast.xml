@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.sparkle-project.org/rss/xmlns/sparkle">
+  <channel>
+    <title>yaw</title>
+    <item>
+      <title>yaw 1.1.0</title>
+      <pubDate>Sat, 15 Aug 2026 13:33:02 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/codehun7er/yaw-releases/releases</link>
+      <enclosure
+        url="https://github.com/codehun7er/yaw-releases/releases/download/v1.1.0/yaw-1.1.0.zip"
+        sparkle:edSignature="BuvdqzKKjZRbmwUZSMNmWIQjyOT0bj0/aTzA41HDR2sLITJWrCNcmaX5sT2/zCE4ectZiwpwB8htYLqAdQ+MAQ==" length="39652906"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
