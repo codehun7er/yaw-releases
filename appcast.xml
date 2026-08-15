@@ -3,14 +3,14 @@
   <channel>
     <title>yaw</title>
     <item>
-      <title>yaw 1.2.1</title>
-      <pubDate>Sat, 15 Aug 2026 16:40:31 +0000</pubDate>
-      <sparkle:version>1.2.1</sparkle:version>
+      <title>yaw 1.3.0</title>
+      <pubDate>Sat, 15 Aug 2026 17:24:01 +0000</pubDate>
+      <sparkle:version>1.3.0</sparkle:version>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <link>https://github.com/codehun7er/yaw-releases/releases</link>
       <enclosure
-        url="https://github.com/codehun7er/yaw-releases/releases/download/v1.2.1/yaw-1.2.1.zip"
-        sparkle:edSignature="9/BIxqEylJxBs2YXBwdEYaddCkeSguzQgtMQ7yEtbAQUstzPkap55OAUUOeDjtFIJPLPqPpk6Lo0xgalfFGdDQ==" length="39660994"
+        url="https://github.com/codehun7er/yaw-releases/releases/download/v1.3.0/yaw-1.3.0.zip"
+        sparkle:edSignature="fZ4SsTphAyjLftStfvIujLHvv9E9JXX5vkoeo/xcTFOqPTR+UJebg+fq7svGaiaQ143VM7wusobgIT8I6edPAw==" length="39668077"
         type="application/octet-stream"/>
     </item>
   </channel>
