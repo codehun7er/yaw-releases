@@ -3,14 +3,14 @@
   <channel>
     <title>yaw</title>
     <item>
-      <title>yaw 1.2.0</title>
-      <pubDate>Wed, 19 Aug 2026 23:06:34 +0000</pubDate>
-      <sparkle:version>1.2.0</sparkle:version>
+      <title>yaw 1.3.0</title>
+      <pubDate>Fri, 21 Aug 2026 22:43:17 +0000</pubDate>
+      <sparkle:version>1.3.0</sparkle:version>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <link>https://github.com/codehun7er/yaw-releases/releases</link>
       <enclosure
-        url="https://github.com/codehun7er/yaw-releases/releases/download/v1.2.0/yaw-1.2.0.dmg"
-        sparkle:edSignature="jApOYkFTEIm4gj+AKXE1bjtEwYp/oexg/+dB44GKyMtczKiNx8rgQfOHeaBNDdyDgR5W6gBdJTM9a1d3cJsGCQ==" length="40615658"
+        url="https://github.com/codehun7er/yaw-releases/releases/download/v1.3.0/yaw-1.3.0.dmg"
+        sparkle:edSignature="Euy7KPmA+lf4OXJlJcfuZGZVB9SjxQ4qbk2k5FlJ+PwwMRvD1MCC35SigOF1Ie3qP4hnOqWAircUzy59hiyiDw==" length="40664843"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
